@@ -17,4 +17,7 @@ Projeto desenvolvido em **C#** para praticar o uso de estruturas de dados.
 
 Praticar os conceitos de **List, Queue e Stack**, trabalhando com inserção, remoção e consulta de dados.
 
+---
+
+
 Desenvolvido por **Júlia Andrade** durante o curso de **Desenvolvimento de Sistemas**.
